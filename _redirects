@@ -1,2 +1,3 @@
-/habits/*  https://hab-bits.netlify.app/:splat   200
-/finmate/* https://fin-mate.netlify.app/:splat   200
+/habits/*  https://hab-bits.netlify.app/:splat  200
+/finmate/* https://fin-mate.netlify.app/:splat  200
+/*         /index.html                         200
